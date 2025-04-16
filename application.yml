@@ -1,1 +1,4 @@
-
+#Eukera client configuration
+eureka.client.service-url.defaultZone=http://localhost:8088/eureka
+eureka.client.register-with-eureka=true
+eureka.client.fetch-registry=true
